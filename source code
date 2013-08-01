@@ -8,8 +8,8 @@
 ##    Please cite paper below if you use the metric or source code in your research work                                                                                           #####
 ##    "Language-independent Model for Machine Translation Evaluation with Reinforced Factors". 2013. Aaron Li-Feng Han, Derek F. Wong, Lidia S. Chao, Liangye He, Yi Lu,           #####
 ##    Junwen Xing and Xiaodong Zeng. Proceedings of the Machine Translation Summit XIV, Nice, France. International Association for Machine Translation.                           #####
-##    Source code website:                                                                                                                                                         #####
-##    Online paper:                                                                                                                                                                #####
+##    Source code website: https://github.com/aaronlifenghan/aaron-project-hlepor                                                                                                  #####
+##    Online paper: http://www.mtsummit2013.info/programme.asp                                                                                                                     #####
 ########################################################################################################################################################################################
 ##    How to use this Perl code and how to assign the weights of sub-factors, e.g. Precision, Recall, Length penalty, Position difference penalty, et.                             #####
 ##    1. Your system output translation documents and the reference translation document should contain the plain text only, each line containing one sentence.                    #####
@@ -26,7 +26,7 @@ closedir (DIR);
 
 open REF,"<:encoding(utf8)","D:\\store HLEPOR WMT2011 program\\evaluation program\\src\\newstest2011-src.en\\newstest2011-src.en.tok.parsed.word" or die "can't open reference\n"; ## put the address of reference translation document here 
 
-  	$j=0;
+		$j=0;
 		$str1="";
 		@arry_r1=();
 		@arry_ref_length= ();
