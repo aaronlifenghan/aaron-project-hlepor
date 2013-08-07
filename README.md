@@ -9,7 +9,8 @@ direction) show hLEPOR yields higher correlation scores with human judgments at 
 METEOR, BLEU, and TER evaluation metrics. Detailed knowledge of hLEPOR is shown in the paper "Language-independent Model
 for Machine Translation Evaluation with Reinforced Factors" by Aaron Li-Feng Han, Derek F. Wong, Lidia S. Chao, Liangye
 He, Yi Lu, Junwen Xing and Xiaodong Zeng. in Proceedings of the Machine Translation Summit XIV, Nice, France. 
-International Association for Machine Translation. (http://www.mtsummit2013.info/programme.asp). If you use the 
+International Association for Machine Translation. (http://www.mtsummit2013.info/programme.asp)
+(download paper http://wenku.baidu.com/view/8b8a195a33687e21af45a9e6.html). If you use the 
 hLEPOR metric in your researches, please cite the paper.
 
 In the ACL-WMT 2013 Metrics Task (http://www.statmt.org/wmt13/metrics-task.html), hLEPOR (i.e. LEPOR_V3.1 in the 
