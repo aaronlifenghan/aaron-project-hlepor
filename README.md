@@ -1,4 +1,4 @@
-aaron-project-hlepor: Language-independent Model for Machine Translation Evaluation with Reinforced Factors
+hlepor: Language-independent Model for Machine Translation Evaluation with Reinforced Factors
 ====================
 
 introduction of hLEPOR: Language independent Model for Machine Translation Evaluation with Reinforced Factors
