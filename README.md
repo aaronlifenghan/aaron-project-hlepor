@@ -20,6 +20,20 @@ the paper "A Description of Tunable Machine Translation Evaluation Systems in WM
 Derek F. Wong, Lidia S. Chao, Yi Lu, Liangye He, Yiming Wang and Jiaji Zhou, in Proceedings of ACL-WMT13 
 (http://www.statmt.org/wmt13/pdf/WMT53.pdf).
 
+--------
+Citations:
+
+@inproceedings{han2013language,
+  title={Language-independent Model for Machine Translation Evaluation with Reinforced Factors},
+  author={Han, Aaron L.-F. and Wong, Derek F. and Chao, Lidia S. and He, Liangye and Lu, Yi and Xing, Junwen and Zeng, Xiaodong},
+  booktitle={Machine Translation Summit XIV},
+  pages={215--222},
+  year={2013},
+  organization={International Association for Machine Translation}
+}
+
+-------------
+
 Contact: hanlifengaaron AT gmail.com
 
 Visit: ADAPT Centre, DCU, Dublin, Ireland
