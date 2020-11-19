@@ -20,6 +20,11 @@ the paper "A Description of Tunable Machine Translation Evaluation Systems in WM
 Derek F. Wong, Lidia S. Chao, Yi Lu, Liangye He, Yiming Wang and Jiaji Zhou, in Proceedings of ACL-WMT13 
 (http://www.statmt.org/wmt13/pdf/WMT53.pdf).
 
+# code updates
+updated codes in the link: 
+https://github.com/poethan/LEPOR 
+https://github.com/aaronlifenghan/aaron-project-lepor (hLEPOR, nLEPOR)
+
 --------
 Citations:
 
