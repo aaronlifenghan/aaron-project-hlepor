@@ -20,6 +20,8 @@ the paper "A Description of Tunable Machine Translation Evaluation Systems in WM
 Derek F. Wong, Lidia S. Chao, Yi Lu, Liangye He, Yiming Wang and Jiaji Zhou, in Proceedings of ACL-WMT13 
 (http://www.statmt.org/wmt13/pdf/WMT53.pdf).
 
+For better performances, hLEPOR parameter setting on different langauge (or language pair) situations is available at the Table 1 (parameter values via language) of WMT13 paper https://aclanthology.org/W13-2253.pdf The parameters were mannually tuned using validation set of corresponding language. For automatic tuning of parameters, we have cushLEPOR now available at https://github.com/poethan/cushLEPOR 
+
 # code updates
 updated codes in the link: 
 https://github.com/poethan/LEPOR 
