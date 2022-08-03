@@ -1,4 +1,4 @@
-hlepor: Language-independent Model for Machine Translation Evaluation with Reinforced Factors
+hLEPOR: Language-independent Model for Machine Translation Evaluation with Reinforced Factors
 ====================
 
 introduction of hLEPOR: Language independent Model for Machine Translation Evaluation with Reinforced Factors
@@ -28,7 +28,8 @@ https://github.com/poethan/LEPOR
 https://github.com/aaronlifenghan/aaron-project-lepor (hLEPOR, nLEPOR)
 
 --------
-Citations:
+
+## Citations 
 
 @inproceedings{han2013language,
   title={Language-independent Model for Machine Translation Evaluation with Reinforced Factors},
@@ -41,6 +42,6 @@ Citations:
 
 -------------
 
-Contact: hanlifengaaron AT gmail.com
+Contact: hanlifengaaron AT gmail DOT com
 
-Visit: ADAPT Centre, DCU, Dublin, Ireland
+Visit: Kilburn Building, Department of Computer Science, Oxford Road, University of Manchester, Manchester, UK
